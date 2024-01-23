@@ -1,4 +1,5 @@
 import Lesson1 from "./pages/Lesson1";
+import Lesson10 from "./pages/Lesson10";
 import Lesson2 from "./pages/Lesson2";
 import Lesson6 from "./pages/Lesson6";
 import Lesson7 from "./pages/Lesson7";
@@ -13,7 +14,8 @@ const App = () => {
       {/* <Lesson2 /> */}
       {/* <Lesson7 /> */}
       {/* <Lesson8 /> */}
-      <Lesson9 />
+      {/* <Lesson9 /> */}
+      <Lesson10 />
     </div>
   );
 };
