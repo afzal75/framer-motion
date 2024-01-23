@@ -1,5 +1,6 @@
 import Lesson1 from "./pages/Lesson1";
 import Lesson10 from "./pages/Lesson10";
+import Lesson11 from "./pages/Lesson11";
 import Lesson2 from "./pages/Lesson2";
 import Lesson6 from "./pages/Lesson6";
 import Lesson7 from "./pages/Lesson7";
@@ -15,7 +16,8 @@ const App = () => {
       {/* <Lesson7 /> */}
       {/* <Lesson8 /> */}
       {/* <Lesson9 /> */}
-      <Lesson10 />
+      {/* <Lesson10 /> */}
+      <Lesson11 />
     </div>
   );
 };
